@@ -1,0 +1,33 @@
+# Core ML libraries
+ultralytics>=8.0.0        # YOLOv8 training and inference
+torch>=2.0.0              # PyTorch backend
+torchvision>=0.15.0
+
+# Data handling
+numpy>=1.24.0
+pandas>=2.0.0
+opencv-python>=4.8.0
+
+# COCO format utilities
+pycocotools>=2.0.0
+
+# Dataset download (optional – used in train.py)
+kagglehub>=0.1.0
+
+# Progress bars
+tqdm>=4.66.0
+
+# Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0          # optional, for nicer plots
+
+# Gradio web app
+gradio>=4.0.0
+
+# Development tools (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utilities
+pillow>=10.0.0
+scipy>=1.10.0
