@@ -7,7 +7,7 @@
 
 **Detect six types of car damage** – dent, scratch, crack, glass shatter, tire flat, lamp broken – using a YOLOv8 instance segmentation model. This repository contains the full pipeline: data preparation, training, evaluation, and a Gradio web app.
 
-![Sample prediction](data visualization/damage_classes_collage.jpg)  
+![Sample prediction](data visualization/damage_classes_collage.png)  
 
 ---
 
@@ -114,7 +114,7 @@ After training for 50 epochs (20 epochs with frozen backbone + 30 epochs full fi
 *Glass shatter and lamp broken achieve near‑perfect precision‑recall trade‑off.*
 
 ### Sample Predictions
-![Training losses](results/train_batch0.png)
+![Sample Predictions](results/train_batch0.png)
 
 ---
 
