@@ -5,7 +5,8 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 
-> **Try it now on [Hugging Face Spaces]([https://deeplens-space-debris-collector.hf.space](https://huggingface.co/spaces/DeepLens/car-damage-detector))**
+> Try the live demo on **[Hugging Face Spaces]([https://deeplens-space-debris-collector.hf.space](https://huggingface.co/spaces/DeepLens/car-damage-detector))**.
+
 
 
 **Detect six types of car damage** – dent, scratch, crack, glass shatter, tire flat, lamp broken – using a YOLOv8 instance segmentation model. This repository contains the full pipeline: data preparation, training, evaluation, and a Gradio web app.
